@@ -1,8 +1,6 @@
 var eventsRouter = require('express').Router();
-var eventsData = require('../data/events-data');
 var _ = require('lodash');
 
-var events = eventsData;
 var id = 12;
 
 var updateId = function (req, res, next) {

@@ -1,14 +1,14 @@
 {
-  "name": "personal-website",
+  "name": "Tiktok-Api",
   "version": "1.0.0",
-  "description": "Api Priv8 PakForlay",
-  "main": "server.js",
+  "description": "PandaEver-tiktok-api",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pakforlay/personal-website.git"
+    "url": "git+https://github.com/justpandaever/tiktok-api"
   },
   "author": "PakForlay",
   "license": "ISC",
@@ -21,7 +21,7 @@
     "puppeteer": "^5.4.1"
   },
   "bugs": {
-    "url": "https://github.com/pakforlay/personal-website/issues"
+    "url": "hhttps://github.com/justpandaever/tiktok-api/issues"
   },
-  "homepage": "https://github.com/pakforlay/personal-website#readme"
+  "homepage": "https://github.com/justpandaever/tiktok-api#readme"
 }
